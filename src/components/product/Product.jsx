@@ -11,7 +11,7 @@ const Product = () => {
         <table style= {{ width : "90%", margin:"auto" ,   borderCollapse: "collapse" }}>
                     <tr>
                     <td>
-                    <img src={require('../../images/Capture2.PNG')} style= {{ margin: "-20px", width: "100px ",height: "100px" ,borderRadius: "8px"}} />
+                    <img alt="img" src={require('../../images/Capture2.PNG')} style= {{ margin: "-20px", width: "100px ",height: "100px" ,borderRadius: "8px"}} />
 
                     </td>
                     <td style= {{ margin: "-20px", color: "white"}} > 
