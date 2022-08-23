@@ -7,7 +7,7 @@ import ReactPlayer from 'react-player'
 import KeyboardDoubleArrowDownIcon from '@mui/icons-material/KeyboardDoubleArrowDown';
 import React, { useState } from "react" 
 const HomePage = () => {
-  const [isOpen,setIsOpen] = useState(false);
+  const [isOpen,setIsOpen] = useState(true);
   return (
     <div className="home">
        
